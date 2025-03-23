@@ -69,7 +69,7 @@ export default function Header() {
     >
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-bold text-xl">
-          <span className="text-primary">Dev</span>Portfolio
+          <span className="text-primary">Ngumi</span>Portfolio
         </Link>
 
         {/* Desktop Navigation */}
@@ -177,4 +177,3 @@ export default function Header() {
     </header>
   )
 }
-
